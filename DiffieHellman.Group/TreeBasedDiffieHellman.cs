@@ -7,7 +7,7 @@ namespace DiffieHellman.Group;
 /// <summary>
 /// Implementation of Tree-Based N-Party Diffie-Hellman
 /// </summary>
-public static class TreeBasedDiffieHellman
+public class TreeBasedDiffieHellman
 {
     /// <summary>
     /// Runs the N-party Tree-Based Diffie-Hellman implementation
