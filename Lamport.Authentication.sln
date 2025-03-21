@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloom.Filter", "Bloom.Filte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloom.Filter.Test", "Bloom.Filter.Test\Bloom.Filter.Test.csproj", "{109784FD-FA02-4A0A-B9FA-57C8C35423FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atomic.Swap", "Atomic.Swap\Atomic.Swap.csproj", "{6BAEB6DA-0505-4048-9A6F-9655304FE028}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,7 @@ Global
 		{18119E78-B0DB-4822-9155-1C26B376F6F2} = {A0AD59E8-3790-4B69-8AE8-4A3F8B29DFEF}
 		{685D0D36-1F6E-4C0C-97D8-0A44540BDCB5} = {A0AD59E8-3790-4B69-8AE8-4A3F8B29DFEF}
 		{109784FD-FA02-4A0A-B9FA-57C8C35423FA} = {A0AD59E8-3790-4B69-8AE8-4A3F8B29DFEF}
+		{6BAEB6DA-0505-4048-9A6F-9655304FE028} = {A0AD59E8-3790-4B69-8AE8-4A3F8B29DFEF}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1534AB70-1C81-4A84-9BA4-D344DD9870B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -67,5 +70,9 @@ Global
 		{109784FD-FA02-4A0A-B9FA-57C8C35423FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{109784FD-FA02-4A0A-B9FA-57C8C35423FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{109784FD-FA02-4A0A-B9FA-57C8C35423FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAEB6DA-0505-4048-9A6F-9655304FE028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAEB6DA-0505-4048-9A6F-9655304FE028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAEB6DA-0505-4048-9A6F-9655304FE028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAEB6DA-0505-4048-9A6F-9655304FE028}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
