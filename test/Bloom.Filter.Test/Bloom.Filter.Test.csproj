@@ -25,9 +25,9 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\Bloom.Filter\Bloom.Filter.csproj" />
+      <ProjectReference Include="..\..\src\Bloom.Filter\Bloom.Filter.csproj" />
     </ItemGroup>
-
+    
     <PropertyGroup>
         <ExcludeFromCodeCoverage>true</ExcludeFromCodeCoverage>
     </PropertyGroup>
