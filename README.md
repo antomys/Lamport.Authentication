@@ -1,1 +1,1 @@
-# Lamport Authentication Client/Server
+# Coding and protection of information problems
